@@ -1,4 +1,4 @@
-# T3rn Executor Node Setup Guide
+# T3rn Executor Setup Guide
 
 This guide provides step-by-step instructions on how to set up the T3rn Executor node on Ubuntu. Follow these instructions to configure and start your node.
 
